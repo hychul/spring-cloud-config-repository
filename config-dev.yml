@@ -1,3 +1,8 @@
+logging:
+  level:
+    ROOT: INFO
+    com.hychul.example: DEBUG
+
 msg:
   hello: Hello dev!
   world: World dev~
